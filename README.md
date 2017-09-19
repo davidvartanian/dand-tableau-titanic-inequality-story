@@ -2,7 +2,7 @@
 ## Titanic Rescue Inequality
 
 ## File Structure
-* First version of Tableau Workbook: [Titanic.twb](Titanic.twb)
+* First version of Tableau Workbook: [Titanic.twbx](Titanic.twbx)
 * Second version of Tableau Workbook (after feedback): [Titanic2.twbx](Titanic2.twbx)
 * Write-up: [Write-up.md](Write-up.md)
 
